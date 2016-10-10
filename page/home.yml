@@ -1,0 +1,8 @@
+settings:
+  layout:
+    - html
+    - main
+content:
+  -
+    type: span
+    innerHTML: Hello World
